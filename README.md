@@ -2,17 +2,17 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+trying to get the content to parse properly, but ended finding a solution to get it done
 
 ## Description
-TODO - How have you solved the problem?
+I referenced the instructional video in the qwasar portal in order for proper guidance on how to complete project.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+No nmp install was needed to complete this project. So the answer for this is N/A.
 
 ## Usage
-TODO - How does it work?
-```
+Implement a where method which will take 2 arguments: column_name and value.
+It will return an array of strings which matches the value.
 ./my_project argument1 argument2
 ```
 
