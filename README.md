@@ -1,23 +1,16 @@
 # Welcome to My Select Query
-***
 
-## Task
-trying to get the content to parse properly, but ended finding a solution to get it done
+•	Tech stack: Ruby
 
-## Description
-I referenced the instructional video in the qwasar portal in order for proper guidance on how to complete project.
+•	A CSV parser that allows the user to input CSV formatted content and then search across the entire dataset
 
-## Installation
-No nmp install was needed to complete this project. So the answer for this is N/A.
+• Constructor will receive a CSV content (as a string), first line will be the name of the column
 
-## Usage
-Implement a where method which will take 2 arguments: column_name and value.
-It will return an array of strings which matches the value.
-./my_project argument1 argument2
-```
+• Implemented a where method which will take 2 arguments: column_name and value
 
-### The Core Team
+• It returns an array of strings which matches the value
 
-
-<span><i>Made at <a href='https://qwasar.io'>Qwasar Silicon Valley</a></i></span>
-<span><img alt='Qwasar Silicon Valley Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
+• Examples will use these CSV:
+  Nba Player Data
+  Nba Players
+  Nba Seasons Stats
